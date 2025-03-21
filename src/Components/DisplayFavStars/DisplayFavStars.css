@@ -1,0 +1,13 @@
+
+
+.Fav-container{
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.fav-title{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}

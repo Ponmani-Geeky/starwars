@@ -1,0 +1,24 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgb(37 99 235);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    height: 40px;
+    width: auto;
+  }
+  
+  .heart-button {
+    border: none;
+    cursor: pointer;
+  }
+  
+  .heart-button:hover {
+  
+  }
+  

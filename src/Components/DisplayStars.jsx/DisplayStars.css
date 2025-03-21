@@ -1,0 +1,23 @@
+
+
+.title{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    margin-left: 0.3rem;
+}
+
+.container{
+   margin: 1rem 1rem 5rem 1rem;
+}
+
+.characters{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.pagination-btn{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}

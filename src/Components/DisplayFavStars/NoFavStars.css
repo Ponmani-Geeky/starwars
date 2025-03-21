@@ -1,0 +1,24 @@
+
+
+.NoFav-container{
+    text-align: center;
+}
+
+.NoFav-container>h2{
+    margin: 3rem;
+}
+
+.NoFav-container>h3{
+    margin: 0.5rem;
+}
+
+.NoFav-container>p{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.fav-icon{
+    color:rgb(229, 62, 62);
+    font-size: 5rem !important;
+    margin-bottom: 1rem;
+}

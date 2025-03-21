@@ -1,16 +1,42 @@
-<<<<<<< HEAD
-# starwars
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Star wars
 
-Currently, two official plugins are available:
+App that will display the star wars character and there details and features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
 
-## Expanding the ESLint configuration
+React - Frontend framework
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> d930a99 (Star Wars MVP)
+Context API - State management
+
+MUI Icons - Material UI icons for UI enhancements
+
+Axios - HTTP client for API requests
+
+React Router - For Router setup
+
+Also used Vite for project setup
+
+
+Installation
+
+1. git clone https://github.com/Ponmani-Geeky/starwars.git
+
+2. cd star-wars-app
+
+3. npm install
+
+4. npm run dev
+
+
+Imporvements needed
+
+1. Typesafe - Typescript
+
+2. Need add story book for components
+
+3. Unit testing for all the components Using React Testing Library
+
+4. Skeleton for Loading state while fetching data from server
+
+5. Accessibility changes.

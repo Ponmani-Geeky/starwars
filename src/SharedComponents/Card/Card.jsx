@@ -6,7 +6,7 @@ import Face2Icon from '@mui/icons-material/Face2';
 import HeightIcon from '@mui/icons-material/Height';
 import ScaleIcon from '@mui/icons-material/Scale';
 import Button from "../Button/Button";
-import FavButton from "../FavButton/Favbutton";
+import FavButton from "../Favbutton/Favbutton";
 import {useNavigate } from "react-router-dom";
 import { useFavContext } from "../../Context/FavContext/FavContext";
 import { useGetHomeWorld } from "../../Hooks/useGetHomeWorld";

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ponmani-Geeky.github.io/starwars",
+  "homepage": "https://ponmani-geeky.github.io/starwars",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

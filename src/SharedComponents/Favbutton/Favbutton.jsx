@@ -1,5 +1,5 @@
 import React from "react";
-import "./FavButton.css";
+import "./Favbutton.css";
 import FavoriteBorderOutlinedIcon from '@mui/icons-material/FavoriteBorderOutlined';
 import FavoriteOutlinedIcon from '@mui/icons-material/FavoriteOutlined';
 
